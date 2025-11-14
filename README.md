@@ -24,4 +24,5 @@ Enter your choice: 1
 Enter Student ID: 101
 Enter Student Name: Kavya
 Enter Marks: 95
+
 Student Added Successfully!
