@@ -1,4 +1,4 @@
-# student-record-management-system
+# Student-Record-Management-System
 A simple and efficient CLI-based CRUD application developed in Java to manage student records.
 This project demonstrates the use of Object-Oriented Programming, ArrayList, and menu-driven console interaction, making it ideal for learning real-world data management.
 ## Features
@@ -20,9 +20,10 @@ This project demonstrates the use of Object-Oriented Programming, ArrayList, and
 3. Update Student
 4. Delete Student
 5. Exit
+   
 Enter your choice: 1
 Enter Student ID: 101
 Enter Student Name: Kavya
 Enter Marks: 95
 
-Student Added Successfully!
+ Student Added Successfully!
